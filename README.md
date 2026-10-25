@@ -9,6 +9,7 @@ Official repository for **IFUSD (Indonesia Finance USD)**, a secure, decentraliz
 * **Total Supply:** 316,993,900 IFUSD
 * **Standard:** BEP-20 / ERC-20
 * **Network:** BNB Smart Chain (BSC) / EVM-compatible
+* **Contract Address** 0x8506E9FCe4fea4C69625465b00156D90c94e747D
 
 ## 📄 Smart Contract Features
 * **OpenZeppelin Standard:** Built on industry-standard, secure cryptographic and access control libraries.
